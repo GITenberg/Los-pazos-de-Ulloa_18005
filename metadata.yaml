@@ -1,0 +1,35 @@
+_repo: Los-pazos-de-Ulloa_18005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pardo Bazán, Emilia, condesa de
+    aliases:
+    - Pardo Bazan, Emilia, condesa de
+    - Bazán, Emilia, condesa de Pardo
+    - Bazán, Emilia Pardo, condesa de
+    birthdate: 1852
+    deathdate: 1921
+    gutenberg_agent_id: '6152'
+    url: http://www.gutenberg.org/2009/agents/6152
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+    - http://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+description: ''
+gutenberg_issued: '2006-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18005'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Galicia (Spain : Region) -- Fiction'
+title: Los pazos de Ulloa
+url: http://www.gutenberg.org/ebooks/18005
